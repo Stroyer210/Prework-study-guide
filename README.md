@@ -2,7 +2,8 @@
 
 ## Description
 
-This Study Guide is a short project that help us understand a little bit about HTML, CSS, Git and JavaScript. It is really interesting to see it because even though it is simple, you can learn a lot from it. It helps you to study the different topics. I learned how to create a website using different computing languages like HTML and CSS plus giving it a little bit of Git and JavaScript. 
+This Study Guide is a short project that help us understand a little bit about HTML, CSS, Git and JavaScript. It is really interesting to see it because even though it is simple, you can learn a lot from it. It helps you to study the different topics. 
+As a result, I learned how to create a website using different computing languages like HTML and CSS plus giving it a little bit of Git and JavaScript. 
 
 ## Installation
 
